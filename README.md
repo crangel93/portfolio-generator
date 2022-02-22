@@ -1,19 +1,20 @@
-Project Title
-## Robot Gladiators 
-# Description 
-## jlksdjf 
-# Install Instructions 
-## sjdlkfj 
-# Usage Information 
-# Contribution Guidelines 
-## sjdlkfj 
-# Test Instructions 
-## kdlsfj 
-# License Options 
-## Public Domain,Permissive,LGPL,copyleft,Propietary #Github Username 
-## ldksfj;
+#Project Title
+## Robot
+# Description
+## djsflkja
+# Install Instructions
+## jlkdsfj
+# Usage Information
+##jlksdf
+# Contribution Guidelines
+## jsdlk;f
+# Test Instructions
+## jdklsf;j
+# License Options
+## Public Domain,Permissive,LGPL,copyleft,Propietary
+#Github Username
+## jdslk;fj
 # Email
-## jdslkfj 
-
+## jalsdkf;
 
 
