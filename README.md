@@ -1,2 +1,1 @@
-# portfolio-generator
-A node.js portfolio generator
+Project Title ### Daddy boy fun # Description ### fun times with daddy # Install Instructions ### install with mom # Usage Information # Contribution Guidelines ### contribute # Test Instructions ### test all day # License Options ### Public Domain,Permissive,LGPL,copyleft,Propietary #Github Username ### crangel94 # Email ### budrangel209
